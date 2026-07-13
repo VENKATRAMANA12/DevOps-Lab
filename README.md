@@ -11,5 +11,6 @@ Application Version : 2.0
 Application Version : 3.0
 created by venkat
 
-## git stash demo 
+##Git Stash Demo
+
 this is an unfinished feature
